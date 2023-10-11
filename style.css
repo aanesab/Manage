@@ -626,6 +626,7 @@ input:where([type="text"], [type="email"], ) {
 }
 
 @media (min-width: 47em) {
+  
   .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
